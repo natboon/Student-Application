@@ -1,0 +1,17 @@
+D:\Github\Student Application\Student Application\Student Application\Student Application\Student Application\bin\Debug\net6.0-windows\Student Application.exe
+D:\Github\Student Application\Student Application\Student Application\Student Application\Student Application\bin\Debug\net6.0-windows\Student Application.deps.json
+D:\Github\Student Application\Student Application\Student Application\Student Application\Student Application\bin\Debug\net6.0-windows\Student Application.runtimeconfig.json
+D:\Github\Student Application\Student Application\Student Application\Student Application\Student Application\bin\Debug\net6.0-windows\Student Application.dll
+D:\Github\Student Application\Student Application\Student Application\Student Application\Student Application\bin\Debug\net6.0-windows\ref\Student Application.dll
+D:\Github\Student Application\Student Application\Student Application\Student Application\Student Application\bin\Debug\net6.0-windows\Student Application.pdb
+D:\Github\Student Application\Student Application\Student Application\Student Application\Student Application\obj\Debug\net6.0-windows\Student Application.csproj.AssemblyReference.cache
+D:\Github\Student Application\Student Application\Student Application\Student Application\Student Application\obj\Debug\net6.0-windows\Student_Application.Form1.resources
+D:\Github\Student Application\Student Application\Student Application\Student Application\Student Application\obj\Debug\net6.0-windows\Student Application.csproj.GenerateResource.cache
+D:\Github\Student Application\Student Application\Student Application\Student Application\Student Application\obj\Debug\net6.0-windows\Student Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\Student Application\Student Application\Student Application\Student Application\Student Application\obj\Debug\net6.0-windows\Student Application.AssemblyInfoInputs.cache
+D:\Github\Student Application\Student Application\Student Application\Student Application\Student Application\obj\Debug\net6.0-windows\Student Application.AssemblyInfo.cs
+D:\Github\Student Application\Student Application\Student Application\Student Application\Student Application\obj\Debug\net6.0-windows\Student Application.csproj.CoreCompileInputs.cache
+D:\Github\Student Application\Student Application\Student Application\Student Application\Student Application\obj\Debug\net6.0-windows\Student Application.dll
+D:\Github\Student Application\Student Application\Student Application\Student Application\Student Application\obj\Debug\net6.0-windows\ref\Student Application.dll
+D:\Github\Student Application\Student Application\Student Application\Student Application\Student Application\obj\Debug\net6.0-windows\Student Application.pdb
+D:\Github\Student Application\Student Application\Student Application\Student Application\Student Application\obj\Debug\net6.0-windows\Student Application.genruntimeconfig.cache
